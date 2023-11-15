@@ -7,7 +7,7 @@
 */
 
 #include <Wire.h>
-#include <INA226.h>
+#include <INA226_dev.h>
 
 INA226 ina;
 
