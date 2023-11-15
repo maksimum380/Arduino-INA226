@@ -32,7 +32,7 @@ SOFTWARE.
 
 #include <Wire.h>
 
-#include "INA226.h"
+#include "INA226_dev.h"
 
 bool INA226::begin(uint8_t address)
 {
