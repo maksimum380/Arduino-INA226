@@ -24,8 +24,8 @@ SOFTWARE.
 
 */
 
-#ifndef INA226_h
-#define INA226_h
+#ifndef INA226_dev_h
+#define INA226_dev_h
 
 #if ARDUINO >= 100
 #include "Arduino.h"
